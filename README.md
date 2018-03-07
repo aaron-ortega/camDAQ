@@ -1,6 +1,6 @@
 # camDAQ
 
-LabVIEW 2015 is used to control a third party camera.
+LabVIEW 2015 is used to control a third party camera. Png file provides preview of block diagram for versions older than 2015.
 
 G-code has been tested successfully with Basler Ace acA1300-200um.
 
